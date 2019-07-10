@@ -5,11 +5,13 @@
 int main(void)
 {
     printf("Begin Deni");
-    Deni();
+    Easton();
     printf("Begin Hayden");
     Hayden();
     printf("Begin Caleb");
     Caleb();
+    printf("Begin Easton Block");
+    Deni();
     //Brian Change
     
 }
@@ -19,7 +21,13 @@ int Caleb() {
     
 }
 
+clearPomGuys(){
+    
+}
 
+rescueMayor(){
+    
+}
 //all Haydens code goes here
 int Hayden(){
     
@@ -31,4 +39,8 @@ int Deni(){
 }
 void Hopper(){
     printf("test syntax")
+}
+
+void EastonCode(){
+    //this is Easton's changes
 }
