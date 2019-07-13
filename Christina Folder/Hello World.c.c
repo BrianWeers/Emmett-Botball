@@ -12,6 +12,8 @@ int main()
     clearPath();
     getBotguy();
     Exit;
+    //add some new code
+    mav(0,200);
     
     
 }
