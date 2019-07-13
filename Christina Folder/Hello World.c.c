@@ -2,7 +2,8 @@
 #include <kipr/botball.h>
 
 boolean cameraOpen = false;
-int motorInch = 200;
+int motorInch = 200
+
 
 int main()
 {
